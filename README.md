@@ -16,7 +16,7 @@ IDpesanan, Minuman, harga
 'B005', 'Teh Botol', '5000'  
 }
 pemesan = {
-Nopesanan, pemesan, pesanan, Totalpesanan
+No, Nama, pesanan, Totalpesanan
 '001', 'Hendry', 'Nasirames,Tehmanis' , '13000'
 '002', 'Risma', 'Nasigoreng,Escinsau', '15000'
 '003', 'Lala', 'Nasiayamgeprek,Aqua', '15000'
